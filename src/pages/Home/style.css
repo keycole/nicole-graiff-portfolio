@@ -1,0 +1,19 @@
+  #mainContainer {
+    margin-top: 50px;
+    padding-bottom: 100px;
+  }
+  
+  #homeHeader {
+    font-family: 'Titan One', cursive;
+    font-size: 28px;
+    margin-top: 10px;
+  }
+  
+  img {
+    border-radius: 500rem!important;
+  }
+  
+  #resumeButton, #emailButton {
+    text-decoration: none;
+    color: rgb(89, 182, 85) !important;
+  }
