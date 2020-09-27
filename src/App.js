@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import Navbar from "./components/Navbar"
 import Home from "./pages/Home";
 import Portfolio from "./pages/Portfolio";
-import Contact from "./pages/Contact";
+// import Contact from "./pages/Contact";
 import Footer from "./components/Footer";
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
         {/*<Wrapper>*/}
           <Route exact path="/nicole-graiff-portfolio/" component={Home} />
           <Route exact path="/nicole-graiff-portfolio/portfolio" component={Portfolio} />
-          <Route exact path="/nicole-graiff-portfolio/contact" component={Contact} />
+          {/* <Route exact path="/nicole-graiff-portfolio/contact" component={Contact} /> */}
         {/*</Wrapper>*/}
         <Footer />
       </div>
