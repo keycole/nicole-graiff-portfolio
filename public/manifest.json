@@ -3,12 +3,12 @@
   "name": "Nicole Graiff: Full Stack Web Developer",
   "icons": [
     {
-      "src": "logo192.jpg",
+      "src": "assets/icons/logo192.jpg",
       "type": "image/jpg",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.jpg",
+      "src": "assets/icons/logo512.jpg",
       "type": "image/jpg",
       "sizes": "512x512"
     }

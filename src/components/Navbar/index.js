@@ -7,10 +7,10 @@ function Navbar() {
 			<div className="ui top fixed green two item inverted menu" id="navigation">
 				<a className="active item" id="home" href="/nicole-graiff-portfolio/">
 					Home
-    		</a>
+    			</a>
 				<a className="item" id="portfolio" href="/nicole-graiff-portfolio/portfolio">
 					Portfolio
-    		</a>
+    			</a>
 			</div>
 		</div>
 	)

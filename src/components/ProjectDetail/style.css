@@ -1,0 +1,8 @@
+#portfolioCard {
+    box-shadow: 5px 5px 5px black;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 5px!important;
+}

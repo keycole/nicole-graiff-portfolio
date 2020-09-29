@@ -13,7 +13,7 @@ function App() {
       <div id="mainContainer">
         <Navbar />
         {/*<Wrapper>*/}
-          <Route exact path="/nicole-graiff-portfolio/" component={Home} />
+          <Route exact path="/nicole-graiff-portfolio" component={Home} />
           <Route exact path="/nicole-graiff-portfolio/portfolio" component={Portfolio} />
           {/* <Route exact path="/nicole-graiff-portfolio/contact" component={Contact} /> */}
         {/*</Wrapper>*/}

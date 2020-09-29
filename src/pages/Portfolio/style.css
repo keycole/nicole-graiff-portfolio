@@ -15,15 +15,6 @@
     font-family: 'Titan One', cursive;
 }
 
-#portfolioCard {
-    box-shadow: 5px 5px 5px black;
-}
-
-img {
-    max-width: 100%;
-    border-radius: 5px!important;
-}
-
 #resumeButton, #emailButton {
     text-decoration: none;
     color: rgb(89, 182, 85) !important;
