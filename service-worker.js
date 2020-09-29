@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nicole-graiff-portfolio/precache-manifest.dfef93a644b4792dd1bd6c4e9995e3e1.js"
+  "/nicole-graiff-portfolio/precache-manifest.b2c7acf31cc5d8847fd7d90425163795.js"
 );
 
 self.addEventListener('message', (event) => {
