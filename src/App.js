@@ -14,10 +14,10 @@ function App() {
         <Navbar />
         {/*<Wrapper>*/}
           <Switch>
-            <Route exact path={"/"}>
+            <Route exact path={"/nicole-graiff-portfolio/"}>
               <Home />
             </Route>
-            <Route exact path={"/portfolio"}>
+            <Route exact path={"/nicole-graiff-portfolio/portfolio"}>
              <Portfolio />
             </Route>
             {/* <Route exact path="/nicole-graiff-portfolio/contact" component={Contact} /> */}
