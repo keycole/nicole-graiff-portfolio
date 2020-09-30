@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7d904b349d4dfe1c54a44507b833a568",
+    "revision": "845097a2a15608288756ea4fa42b3dda",
     "url": "/nicole-graiff-portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nicole-graiff-portfolio/static/css/2.fa1bbd52.chunk.css"
   },
   {
-    "revision": "13afe3bcf913617694eb",
+    "revision": "a8a554b93beb11e21fb5",
     "url": "/nicole-graiff-portfolio/static/css/main.ac551311.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nicole-graiff-portfolio/static/js/2.72b361c2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "13afe3bcf913617694eb",
-    "url": "/nicole-graiff-portfolio/static/js/main.0d83a12b.chunk.js"
+    "revision": "a8a554b93beb11e21fb5",
+    "url": "/nicole-graiff-portfolio/static/js/main.2726f8ab.chunk.js"
   },
   {
     "revision": "53954aa9d95d762e5859",
